@@ -33,7 +33,10 @@ All descriptions are taken from the extensions' respective Github pages.
 - If you are using **Indent Guides for Brackets** you can specify the color and opacity of indent lines under *brackets-indent-guides.guideColor* in the Preferences menu.
 
 ## Use a custom font
-Set these up either in View > Themes or in the preferences JSON. You will need to specify the actual font name is it is called in your Font Book (on Mac), or in the Fonts folder (at least I guess that's how it would work on Windows). I've found that [Fira Code](https://github.com/tonsky/FiraCode), [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro) and [Inconsolata](https://fonts.google.com/specimen/Inconsolata) have all been very nice to work with. All of them are free!
+Set these up either in View > Themes or in the preferences JSON. You will need to specify the actual font name as it's called in your Font Book (on Mac), or in the Fonts folder (at least I guess that's how it would work on Windows). I've found the following (free!) fonts to be very nice to work with:
+- [Fira Code](https://github.com/tonsky/FiraCode)
+- [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro)
+- [Inconsolata](https://fonts.google.com/specimen/Inconsolata)
 
 ## Deep-customizing Brackets
 You will be able to reach a ton of settings in two of the JSON files that contain (all?) the settings for Brackets. You can open these by going to File > Preferences.
