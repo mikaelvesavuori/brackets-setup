@@ -39,4 +39,4 @@ Set these up either in View > Themes or in the preferences JSON. You will need t
 - [Inconsolata](https://fonts.google.com/specimen/Inconsolata)
 
 ## Deep-customizing Brackets
-You will be able to reach a ton of settings in two of the JSON files that contain (all?) the settings for Brackets. You can open these by going to File > Preferences.
+You will be able to reach a ton of settings in two of the JSON files that contain (all?) the settings for Brackets. You can open these by going to Preferences (on a Mac this is located under the Brackets menu item).
