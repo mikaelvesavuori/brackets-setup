@@ -21,6 +21,11 @@ All descriptions are taken from the extensions' respective Github pages.
 - [Shizimily Multi-Encoding for Brackets](https://github.com/Hiromi-Ayase/brackets-shizimily-multiencoding): An extension for Brackets to read and write non UTF-8 encoding file.
 - [White Space Sanitizer](https://github.com/MiguelCastillo/Brackets-wsSanitizer): Bring sanity to your code by keeping your indentation (spaces and tabs) consistent; the white space sanitizer.
 
+## Handy stuff to know
+- You can easily fold/unfold nested code with the left-most arrow icon (should be located right next to the line numbers if you have those activated)
+- `CMD+Left Click`: You can use multiple input markers/cursors – useful for when you need to enter the same text into multiple places
+- `CMD+C` / `CMD+V` / `CMD+X`: If you don't have anything selected, these operations will apply to the entire line – super handy when you want to copy or erase things really fast
+
 ## Useful shortkeys
 - `CMD+E`: Quick Edit code which can save a lot of time – for example giving you direct CSS class access when you have the cursor on a class in an HTML document
 - `CMD+UPARROW` or `CMD+DOWNARROW`: Go to top or bottom of the current document
