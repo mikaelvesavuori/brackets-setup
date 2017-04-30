@@ -13,7 +13,7 @@ All descriptions are taken from the extensions' respective Github pages.
 - [brackets-typescript](https://github.com/fdecampredon/brackets-typescript): A Brackets extension that adds TypeScript support.
 - [brackets-eslint](https://github.com/fdecampredon/brackets-eslint): Adds ESLint support to Brackets.
 - [Command Line Shortcuts for Brackets](https://github.com/antivanov/Brackets-Command-Line-Shortcuts): Brackets IDE plugin. Adds support of shortcuts for execution of terminal commands right from the IDE.
-- [brackets-csscomb](https://github.com/i-akhmadullin/brackets-csscomb): Sorts css files with csscomb.js
+- [CSScomb Brackets plugin](https://github.com/hano/csscomb-brackets): Implementation of CSScomp for Brackets.
 - [Indent Guides for Brackets](https://github.com/lkcampbell/brackets-indent-guides): An extension for Brackets to show indent guides in the code editor.
 - [Indentator](https://github.com/ahuth/brackets-indentator): Re-indent a document according to your current indentation settings. Useful for converting someone else's style to your own. Run by selecting Indent Document under the Edit menu, or using the Ctrl+Alt+I shortcut.
 - [Open in terminal](https://github.com/ranjandatta/brackets-open-in-linux-terminal): Open the project folder in terminal.
