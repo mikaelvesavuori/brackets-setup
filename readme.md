@@ -11,7 +11,7 @@ All descriptions are taken from the extensions' respective Github pages.
 - [hdy.Brackets-Shell](https://github.com/johnhidey/hdy.brackets-shell/): A brackets extension giving you access to the system shell within brackets.
 - [Brackets Tree Icons](https://github.com/mskocik/brackets-tree-icons): This extension adds file and folder (open and close state) icons to the brackets file tree. Based on drewbkoch and his Brackets File Icons project, which is based on ivogabe's Brackets-Icons project.
 - [brackets-typescript](https://github.com/fdecampredon/brackets-typescript): A Brackets extension that adds TypeScript support.
-- [brackets-eslint](https://github.com/fdecampredon/brackets-eslint): Adds ESLint support to Brackets.
+- [brackets-eslint](https://github.com/zaggino/brackets-eslint): Brackets extension which provides file linting with ESLint..
 - [Command Line Shortcuts for Brackets](https://github.com/antivanov/Brackets-Command-Line-Shortcuts): Brackets IDE plugin. Adds support of shortcuts for execution of terminal commands right from the IDE.
 - [CSScomb Brackets plugin](https://github.com/hano/csscomb-brackets): Implementation of CSScomp for Brackets.
 - [Indent Guides for Brackets](https://github.com/lkcampbell/brackets-indent-guides): An extension for Brackets to show indent guides in the code editor.
