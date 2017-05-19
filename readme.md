@@ -43,5 +43,18 @@ Set these up either in View > Themes or in the preferences JSON. You will need t
 - [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro)
 - [Inconsolata](https://fonts.google.com/specimen/Inconsolata)
 
+### Settings example for custom font (brackets.json)
+- "fonts.fontSize": "16px"
+- "fonts.fontFamily": "'Fira Code', 'SourceCodePro-Medium', ＭＳ ゴシック, 'MS Gothic', monospace"
+
+## Setting up linting
+JSLint is on by default in Brackets. If you use ESLint you will get, as a default, get both linters activated and running. You need to set these up a bit if you only want one them. See the below example for how to only use ESLint.
+
+### Settings example for linting (brackets.json)
+- "linting.prefer": ["ESLint"]
+- "linting.usePreferredOnly": true
+
 ## Deep-customizing Brackets
 You will be able to reach a ton of settings in two of the JSON files that contain (all?) the settings for Brackets. You can open these by going to Preferences (on a Mac this is located under the Brackets menu item).
+
+The file **defaultPreferences.json** is read-only, so the way you will have to input your custom preferences is to copy-paste (or write new) configurations in the right-hand side file, **brackets.json**. That file will "overwrite" the initial global preferences file. Verify any changes by saving your updated **brackets.json** and reloading Brackets with **CMD+R**.
