@@ -1,3 +1,8 @@
+# Consider migrating to Visual Studio Code
+Brackets is still a very good IDE, but last summer I took the step to VS Code which is in almost every way even better. If you want my configs for VS Code, similar to below, [they are available as a Gist](https://gist.github.com/mikaelvesavuori/e5e93fcdc9d0f5aee6a9d8941b37b7b2) created and backed-up automatically with [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync).
+
+---
+
 # Brackets setup recommendations
 This document serves to give some recommendations for how to set up Brackets for frontend development.
 
